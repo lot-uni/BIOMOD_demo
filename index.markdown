@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Welcome to BIOMOD Demo
-
+our team try to develop small scale moducler robots!
 ## Abstract
 
 ここに研究の概要を書きます。DNA ナノ構造を用いた...
